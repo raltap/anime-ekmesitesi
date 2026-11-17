@@ -1,0 +1,2485 @@
+[
+  {
+    "id": "adcf0e49-8a8f-494b-8e2a-afe762bbee67",
+    "slug": "argonavis-from-bang-dream",
+    "animeTitle": "Argonavis from BanG Dream!",
+    "episode": "1",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Arcadia",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2338386807517",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Arcadia",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2338393230045",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Arcadia",
+        "embedUrl": "https://my.mail.ru/video/embed/2444636457931907884",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Arcadia",
+        "embedUrl": "https://my.mail.ru/video/embed/2444636457931907885",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Arcadia",
+        "embedUrl": "https://www.mp4upload.com/embed-ucd7dnao433u.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Arcadia",
+        "embedUrl": "https://vudeo.io/embed-8qc6rludpld2.html",
+        "outcome": "This operation was aborted"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Arcadia",
+        "embedUrl": "https://vudeo.io/embed-ig7aioo87pgz.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "720p",
+    "resolutionHeight": 720,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "Arcadia (TürkAnime İzle)",
+    "fileName": "Argonavis from BanG Dream! - Bolum 01 [Arcadia (TürkAnime İzle) 720p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1kWwf67c8xJdRI7Mwz3cCAQZ8a0X2MLrZ",
+    "driveWebViewLink": "https://drive.google.com/file/d/1kWwf67c8xJdRI7Mwz3cCAQZ8a0X2MLrZ/view",
+    "driveFolderId": "1dR2OwjyL-XykNXOEnQl-NkAx8Z3lL_U7",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1dR2OwjyL-XykNXOEnQl-NkAx8Z3lL_U7",
+    "completedAt": 1794910087767
+  },
+  {
+    "id": "e9c6ac08-8913-4f68-90f6-cd7fef517d37",
+    "slug": "ashita-no-joe",
+    "animeTitle": "Ashita no Joe",
+    "episode": "1",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "SIBNET",
+        "fansub": "AYS",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=2973054",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4091071",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1785931",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1710122",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/_myvideo/6393.html",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "VK",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vk.com/video_ext.php?oid=282767151&id=171192933&hash=2701818e2baa281c&hd=1",
+        "outcome": "VK akışı bulunamadı"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://sendvid.com/embed/eiad4qgd",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "VOE",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://voe.sx/e/ekv6nmajgxoo",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vudeo.io/embed-9cquqc0dhhxz.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794901040681,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "07062e48-ca59-4cea-8686-fd29b4cc90c9",
+    "slug": "assassins-pride",
+    "animeTitle": "Assassins Pride",
+    "episode": "4",
+    "status": "completed",
+    "strict1080p": true,
+    "embedUrl": "https://odnoklassniki.ru/videoembed/1634293975795",
+    "bytesDownloaded": 904799192,
+    "totalBytes": 904799192,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "AnimeWho",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1634293975795",
+        "outcome": "Seçildi (1080p)"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "selectedPlayer": "ODNOKLASSNIKI",
+    "selectedFansub": "AnimeWho",
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "streamUrl": "https://vd357.okcdn.ru/?expires=1794987440837&srcIp=34.34.246.14&pr=10&srcAg=CHROME&ms=178.237.29.134&type=5&sig=iwYIe81MrKQ&ct=0&urls=185.226.55.97&clientType=0&id=697743641331",
+    "fileName": "Assassins Pride - Bolum 04 [AnimeWho 1080p].mp4",
+    "filePath": "/app/applet/downloads/assassins-pride/Assassins Pride - Bolum 04 [AnimeWho 1080p].mp4",
+    "minQualityHeight": 1080,
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1_HlhEB-aYbe3JP6KFcu0WM8If0p9bNZn",
+    "driveWebViewLink": "https://drive.google.com/file/d/1_HlhEB-aYbe3JP6KFcu0WM8If0p9bNZn/view",
+    "driveFolderId": "1HrzCNRU-8WYcd4DVnuQ2AailXqG4ZHha",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1HrzCNRU-8WYcd4DVnuQ2AailXqG4ZHha",
+    "completedAt": 1794910087788
+  },
+  {
+    "id": "893ab8c6-381e-4b23-b30e-8f11aa7f8789",
+    "slug": "astarotte-no-omocha",
+    "animeTitle": "Astarotte no Omocha!",
+    "episode": "3",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2419359681245",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1048392829661",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://www.mp4upload.com/embed-d4tx66co1n9n.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://sendvid.com/embed/uzxxl1bj",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://uqload.com/embed-274jbw2ad6ke.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "CLONE",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://short.icu/?v=zOAuKkswrD",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://vudeo.io/embed-52xi9baybf8i.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794901065506,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "6287d6b4-09b1-4734-84a3-83781a49fa2a",
+    "slug": "azur-lane-queen-s-orders",
+    "animeTitle": "Azur Lane: Queen's Orders",
+    "episode": "2",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "GDRIVE",
+        "fansub": "NinoSubs",
+        "embedUrl": "https://drive.google.com/file/d/1UVtIOjKErArvyeaX-U2WXdsAF_wfHmfr/preview",
+        "outcome": "HTTP 401"
+      },
+      {
+        "player": "CLONE",
+        "fansub": "NinoSubs",
+        "embedUrl": "https://short.icu/omdC7UgP-",
+        "outcome": "fetch failed"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "NinoSubs (TürkAnime İzle)",
+    "fileName": "Azur Lane Queen's Orders - Bolum 02 [NinoSubs (TürkAnime İzle) 1080p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1qDZm-usCLUyoNX5v9-_C33DXtAw4sASW",
+    "driveWebViewLink": "https://drive.google.com/file/d/1qDZm-usCLUyoNX5v9-_C33DXtAw4sASW/view",
+    "driveFolderId": "1JuU9opZwlrpMJ55nQCf8N6s0sYyDupiq",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1JuU9opZwlrpMJ55nQCf8N6s0sYyDupiq",
+    "completedAt": 1794910088189
+  },
+  {
+    "id": "7992e8bf-ff50-4953-9a41-84d6a44048e2",
+    "slug": "babylon",
+    "animeTitle": "Babylon",
+    "episode": "7",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1237605681885",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1237883423453",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3749770",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4536079",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3751979",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://my.mail.ru/mail/siyahbeyaz844/video/embed/_myvideo/6648",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://www.mp4upload.com/embed-heeca2cyi7i4.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://www.mp4upload.com/embed-665ax0hhrzqn.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://uqload.com/embed-b4up0gqrvqwz.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "MEGA",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://mega.nz/embed/m4dFUAKa!AcpliuItEAOr__t_Bj9_MT3cIF0VhP2lqLUg7ouWY4Y",
+        "outcome": "MEGA taraması için yt-dlp betiği önerilir"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "SoulSubs",
+        "embedUrl": "https://vudeo.io/embed-42nrz02wvji3.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "SoulSubs (TürkAnime İzle)",
+    "fileName": "Babylon - Bolum 07 [SoulSubs (TürkAnime İzle) 1080p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "17WUVGVFfKUIiJvJW4o3zDbHC3IQM_UVN",
+    "driveWebViewLink": "https://drive.google.com/file/d/17WUVGVFfKUIiJvJW4o3zDbHC3IQM_UVN/view",
+    "driveFolderId": "1gbrqf91N_DGPWvyAsIWY2ENbsFCI60qC",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1gbrqf91N_DGPWvyAsIWY2ENbsFCI60qC",
+    "completedAt": 1794910088208
+  },
+  {
+    "id": "67af0329-009a-4d23-8bcf-82d43f5c6de7",
+    "slug": "bakuman",
+    "animeTitle": "Bakuman.",
+    "episode": "17",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "SIBNET",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4493891",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1122867",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1629190",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3047609",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://sendvid.com/embed/7t8plg7r",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://uqload.com/embed-btm4r5770bed.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "VOE",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://voe.sx/e/bbh8kzitqilg",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "CLONE",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://short.icu/?v=VJ_PRc8qJ",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "CLONE",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://short.icu/?v=6mMuFLaEw",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "AnimeOU",
+        "embedUrl": "https://vudeo.io/embed-l795lnlg2cvi.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794901090465,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "87d8638f-b2ac-4f7f-8851-56a69f12e08c",
+    "slug": "bakumatsu-gijinden-roman",
+    "animeTitle": "Bakumatsu Gijinden Roman",
+    "episode": "11",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "AniSekai",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/3784836516440",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "AniSekai",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2657412778608",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/4799317150296",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "SAVEFILEWAY",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://savefileway.com/video/embed/4Czg/660x425/241ch11_84kum4t2u_G1j1nd3n_R0m4n_11_By_Oto_Uploader.mp4",
+        "outcome": "HTTP 523"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "AniSekai",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4657638",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Zaichii",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1752390",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "AniSekai",
+        "embedUrl": "https://my.mail.ru/video/embed/3095424634359667239",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "AniSekai",
+        "embedUrl": "https://my.mail.ru/video/embed/7571497515682366570",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://videoapi.my.mail.ru/videos/embed/mail/siyahbeyaz113/492/1368.html",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "VK",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vk.com/video_ext.php?oid=209639255&id=164996048&hash=30ed00ecbcb0b79c&hd=1",
+        "outcome": "VK akışı bulunamadı"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "AniSekai",
+        "embedUrl": "https://www.mp4upload.com/embed-oqphser9alu7.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.mp4upload.com/embed-ldkzlenjywvo.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "AniSekai",
+        "embedUrl": "https://sendvid.com/embed/d9nuk5z1",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "AniSekai",
+        "embedUrl": "https://uqload.com/embed-r221kn0qv0uy.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://uqload.com/embed-rzpm0qvana2j.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "VOE",
+        "fansub": "AniSekai",
+        "embedUrl": "https://voe.sx/e/dvct2twom103",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "VOE",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://voe.sx/e/xbdgrqosgym1",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "STREAMSB",
+        "fansub": "AniSekai",
+        "embedUrl": "https://sbfast.com/embed-fbwb1c8g710i.html",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "MVIDOO",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://mvidoo.com/embed-rcnulqvkj3tg.html",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "TUBELOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://tubeload.co/e/h1rnwwvlro7h",
+        "outcome": "fetch failed"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "720p",
+    "resolutionHeight": 720,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "AniSekai",
+    "fileName": "Bakumatsu Gijinden Roman - Bolum 11 [AniSekai 720p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1QstOkmguowSR2r4XLgNxzTxkWgRy40UG",
+    "driveWebViewLink": "https://drive.google.com/file/d/1QstOkmguowSR2r4XLgNxzTxkWgRy40UG/view",
+    "driveFolderId": "1MSJTm3Bc0XYJMAOV28oZuFkxdg4d4sa3",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1MSJTm3Bc0XYJMAOV28oZuFkxdg4d4sa3",
+    "completedAt": 1794910088167
+  },
+  {
+    "id": "9e328885-7940-4022-8d10-2bc5054779f0",
+    "slug": "bakumatsu-kikansetsu-irohanihoheto",
+    "animeTitle": "Bakumatsu Kikansetsu Irohanihoheto",
+    "episode": "1",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2339423652573",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2339424439005",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://my.mail.ru/video/embed/2444636457931907985",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://my.mail.ru/video/embed/2444636457931907986",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "VK",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vk.com/video_ext.php?oid=219364562&id=166485390&hash=07e4a73001095171&hd=1",
+        "outcome": "VK akışı bulunamadı"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vudeo.io/embed-tjmn4jqjjq6m.html",
+        "outcome": "This operation was aborted"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vudeo.io/embed-8zzfoqivs9ac.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794901118072,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "eb50219a-fb4d-4716-967b-31179f777460",
+    "slug": "bakumatsu-rock",
+    "animeTitle": "Bakumatsu Rock",
+    "episode": "12",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "SIBNET",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4538070",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1765161",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://my.mail.ru/video/embed/9165530183271193747",
+        "outcome": "Mail.ru metadataUrl bulunamadı"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://www.mp4upload.com/embed-0p9tw3e6r0rd.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://sendvid.com/embed/dhkr74qi",
+        "outcome": "HTTP 404"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://uqload.com/embed-maj99vfxrn70.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "AniKeyf",
+        "embedUrl": "https://vudeo.io/embed-48hp68fyg2k7.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794901129459,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "3bcbef36-58b2-42e5-b5fb-5a13c7b0cf67",
+    "slug": "bakuten-shoot-beyblade",
+    "animeTitle": "Bakuten Shoot Beyblade",
+    "episode": "11",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1468073",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4534568",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1113867",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.mp4upload.com/embed-5t2fcz73j3ck.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://sendvid.com/embed/ykwmvrkt",
+        "outcome": "HTTP 404"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://uqload.com/embed-kzqbd07l0n1q.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "DAILYMOTION",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.dailymotion.com/embed/video/x1w0xao",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vudeo.io/embed-svkczecjhf4j.html",
+        "outcome": "This operation was aborted"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vudeo.io/embed-rv1hbckdj8gp.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794901150832,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "357f8613-2fd8-4e6e-8a7b-ce341a8633f9",
+    "slug": "bakuten-shoot-beyblade-2002",
+    "animeTitle": "Bakuten Shoot Beyblade 2002",
+    "episode": "46",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4541597",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1467331",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.mp4upload.com/embed-f2co60ltjxdk.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://sendvid.com/embed/4o8or97z",
+        "outcome": "HTTP 404"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://uqload.com/embed-aimsziq1z9yt.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "DAILYMOTION",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.dailymotion.com/embed/video/x1vucht",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vudeo.io/embed-7vih41qkgx32.html",
+        "outcome": "This operation was aborted"
+      },
+      {
+        "player": "YOUTUBE",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.youtube.com/embed/6v8U0AlbeZ0",
+        "outcome": "YOUTUBE taraması için yt-dlp betiği önerilir"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794901162061,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "f6077b19-b30d-416d-a9d2-aa6a2b229ea5",
+    "slug": "banana-fish",
+    "animeTitle": "Banana Fish",
+    "episode": "1",
+    "status": "completed",
+    "strict1080p": true,
+    "embedUrl": "https://www.mp4upload.com/embed-i6pdlht1iwcs.html",
+    "bytesDownloaded": 387271115,
+    "totalBytes": 387271115,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "SIBNET",
+        "fansub": "Adonis",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3387446",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Unmei Çeviri",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3387819",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Unmei Çeviri",
+        "embedUrl": "https://www.mp4upload.com/embed-i6pdlht1iwcs.html",
+        "outcome": "Seçildi (1080p)"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "selectedPlayer": "MP4UPLOAD",
+    "selectedFansub": "Unmei Çeviri",
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "streamUrl": "https://a4.mp4upload.com:183/d/xkxy2w3vz3b4quuorsvbgzcqix4lxmzskzffumyktd3tev46kkzvx73ktglm63pgscpdnrpc/video.mp4",
+    "fileName": "Banana Fish - Bolum 01 [Unmei Çeviri 1080p].mp4",
+    "filePath": "/app/applet/downloads/banana-fish/Banana Fish - Bolum 01 [Unmei Çeviri 1080p].mp4",
+    "completedAt": 1794901173137,
+    "minQualityHeight": 1080,
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1bqv6EZ5N51AJuWsx89WqNSHScpJa88RS",
+    "driveWebViewLink": "https://drive.google.com/file/d/1bqv6EZ5N51AJuWsx89WqNSHScpJa88RS/view",
+    "driveFolderId": "1-O19Ol_Cd1_Vxx4SyFBqtd_Bp0VyIVHT",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1-O19Ol_Cd1_Vxx4SyFBqtd_Bp0VyIVHT"
+  },
+  {
+    "id": "05c69355-3fc5-4913-ad15-201b3f7904ad",
+    "slug": "bannou-bunka-neko-musume",
+    "animeTitle": "Bannou Bunka Neko-Musume",
+    "episode": "2",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Next",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/4052672252504",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Next",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1506845919994",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1415451118301",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "SAVEFILEWAY",
+        "fansub": "Next",
+        "embedUrl": "https://savefileway.com/video/embed/A4a/660x425/N3xt_84nn0u_8unk4_N3k0mu2um3_02_38544537_1_002220_By_Oto_Uploader.mp4",
+        "outcome": "HTTP 523"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Next",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4782646",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Next",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3977208",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4531987",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3944170",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Next",
+        "embedUrl": "https://my.mail.ru/video/embed/3095424634359669900",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://my.mail.ru/video/embed/3095424634359651885",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Next",
+        "embedUrl": "https://www.mp4upload.com/embed-6y82ewc4neyy.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.mp4upload.com/embed-abp9654739yo.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "Next",
+        "embedUrl": "https://uqload.com/embed-63dhifick4c3.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://uqload.com/embed-8o80kem8bzr3.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "VOE",
+        "fansub": "Next",
+        "embedUrl": "https://voe.sx/e/6rap9pxzdv9k",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "MEGA",
+        "fansub": "Next",
+        "embedUrl": "https://mega.nz/embed/rN50mYIT#8tjVHBxlJ4kW33wCWbT13mbR2qsxJu8ob3jn8nhcczQ",
+        "outcome": "MEGA taraması için yt-dlp betiği önerilir"
+      },
+      {
+        "player": "EMBEDO",
+        "fansub": "Next",
+        "embedUrl": "https://embedo.co/e/ttyb3oc5hdfa",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "MVIDOO",
+        "fansub": "Next",
+        "embedUrl": "https://mvidoo.com/embed-mcvfm56utp9b.html",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "TUBELOAD",
+        "fansub": "Next",
+        "embedUrl": "https://tubeload.co/e/eiohbf2ykamg",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vudeo.io/embed-xx1vv0bsnaom.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "720p",
+    "resolutionHeight": 720,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "Next",
+    "fileName": "Bannou Bunka Neko-Musume - Bolum 02 [Next 720p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1xR1WGmovuPuEC9Av1SmYcUGOHUAehXuu",
+    "driveWebViewLink": "https://drive.google.com/file/d/1xR1WGmovuPuEC9Av1SmYcUGOHUAehXuu/view",
+    "driveFolderId": "1VCPbcfzZ4vNUFZADn8LTHUXiIPKk_VrM",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1VCPbcfzZ4vNUFZADn8LTHUXiIPKk_VrM",
+    "completedAt": 1794910089098
+  },
+  {
+    "id": "057ea047-6977-487d-92c9-7491d8c17dff",
+    "slug": "bartender-kami-no-glass",
+    "animeTitle": "Bartender: Kami no Glass",
+    "episode": "12",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "ShijieSubs",
+        "embedUrl": "https://www.mp4upload.com/embed-d1ed4rzonx5v.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "ShijieSubs",
+        "embedUrl": "https://sendvid.com/embed/43omubp4",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "FILEMOON",
+        "fansub": "ShijieSubs",
+        "embedUrl": "https://filemoon.sx/e/ttfviw3p94y5",
+        "outcome": "FILEMOON taraması için yt-dlp betiği önerilir"
+      },
+      {
+        "player": "MEGA",
+        "fansub": "ShijieSubs",
+        "embedUrl": "https://mega.nz/embed/Ev0jXYSQ#PqNEUpoBQlqbBbTVDwmYD_lp4nhfSemewNAyVCQP4_4",
+        "outcome": "MEGA taraması için yt-dlp betiği önerilir"
+      },
+      {
+        "player": "VIIDSHAR",
+        "fansub": "ShijieSubs",
+        "embedUrl": "https://vadshar.com/embed-hhn8fwwpb68p.html",
+        "outcome": "fetch failed"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "Shijie (TürkAnime İzle)",
+    "fileName": "Bartender Kami no Glass - Bolum 12 [Shijie (TürkAnime İzle) 1080p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "11uMWxWli1a2ZfUwBzDneiLCUZxe_2XsU",
+    "driveWebViewLink": "https://drive.google.com/file/d/11uMWxWli1a2ZfUwBzDneiLCUZxe_2XsU/view",
+    "driveFolderId": "1FrCcXar-qCI5h8uH2c0vh-7thNnc2oJs",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1FrCcXar-qCI5h8uH2c0vh-7thNnc2oJs",
+    "completedAt": 1794910089444
+  },
+  {
+    "id": "68179e1c-07ee-4589-8473-e802bb988667",
+    "slug": "biohazard-infinite-darkness",
+    "animeTitle": "Biohazard: Infinite Darkness",
+    "episode": "4",
+    "status": "completed",
+    "strict1080p": true,
+    "embedUrl": "https://my.mail.ru/video/embed/7571497515682367086",
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4531903",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://my.mail.ru/video/embed/7571497515682367086",
+        "outcome": "Seçildi (1080p)"
+      }
+    ],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "selectedPlayer": "MAIL",
+    "selectedFansub": "Varsayılan",
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "streamUrl": "https://cdn32.my.mail.ru/hv/72666113.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.4%3A9090%2Fvideo4%2F72666113-hv&p=f&video_key=d7e060dffd441f4cf801b5e138517ee075652db7&expire_at=1794913200&touch=1625735980&reg=200&sign=e50d8874c850a884eb2739bcb2d36e6800bb14de",
+    "fileName": "Biohazard Infinite Darkness - Bolum 04 [Varsayılan 1080p].mp4",
+    "filePath": "/app/applet/downloads/biohazard-infinite-darkness/Biohazard Infinite Darkness - Bolum 04 [Varsayılan 1080p].mp4",
+    "minQualityHeight": 1080,
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1jnTC_X9ZxQ7J3fKkaOYSBnl86Mn_vuzj",
+    "driveWebViewLink": "https://drive.google.com/file/d/1jnTC_X9ZxQ7J3fKkaOYSBnl86Mn_vuzj/view",
+    "driveFolderId": "1d28nqcL1XObOBo3lzjc5V-ygVWnWYlHh",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1d28nqcL1XObOBo3lzjc5V-ygVWnWYlHh",
+    "completedAt": 1794910089418
+  },
+  {
+    "id": "2e92c514-c944-467c-87b1-3b9e47425ab3",
+    "slug": "black-blood-brothers",
+    "animeTitle": "Black Blood Brothers",
+    "episode": "9",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "HoşumuzaGidenŞeyler-BD",
+    "fileName": "Black Blood Brothers - Bolum 09 [HoşumuzaGidenŞeyler-BD 1080p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "10mYISkUQ-TC1iHA2zmv4RLPQckXuzM7t",
+    "driveWebViewLink": "https://drive.google.com/file/d/10mYISkUQ-TC1iHA2zmv4RLPQckXuzM7t/view",
+    "driveFolderId": "1v7GR9Y2I0uPw-gRmdXUiLXndUk3d9gDG",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1v7GR9Y2I0uPw-gRmdXUiLXndUk3d9gDG",
+    "completedAt": 1794910089754
+  },
+  {
+    "id": "70261a1d-ae6d-483b-847e-620be69165bf",
+    "slug": "black-rock-shooter-dawn-fall",
+    "animeTitle": "BlackRock Shooter: Dawn Fall",
+    "episode": "7",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "720p",
+    "resolutionHeight": 720,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "Eksen Çeviri (TürkAnime İzle)",
+    "fileName": "BlackRock Shooter Dawn Fall - Bolum 07 [Eksen Çeviri (TürkAnime İzle) 720p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1KyBNz3F1aDhxq-mw4JJ8hqoAGcABGTWY",
+    "driveWebViewLink": "https://drive.google.com/file/d/1KyBNz3F1aDhxq-mw4JJ8hqoAGcABGTWY/view",
+    "driveFolderId": "1tTu5kzOlfYW7kjW1eeIq-fSc6z-t34Mz",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1tTu5kzOlfYW7kjW1eeIq-fSc6z-t34Mz",
+    "completedAt": 1794910089755
+  },
+  {
+    "id": "5086ab64-ee72-4157-809b-cfe976fa5b9d",
+    "slug": "blue-gender",
+    "animeTitle": "Blue Gender",
+    "episode": "2",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "cd870e39-af0f-4a10-b56f-96c945450fb2",
+    "slug": "blue-seed-2",
+    "animeTitle": "Blue Seed 2",
+    "episode": "3",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "720p",
+    "resolutionHeight": 720,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "AnimeArsivcisi",
+    "fileName": "Blue Seed 2 - Bolum 03 [AnimeArsivcisi 720p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1d68Fi9bowr9Cm7gDjH0gzCwFEQwSy4sO",
+    "driveWebViewLink": "https://drive.google.com/file/d/1d68Fi9bowr9Cm7gDjH0gzCwFEQwSy4sO/view",
+    "driveFolderId": "11kqjlo6uaLZA9PMqUtr6FUTr6bIA-n1w",
+    "driveFolderLink": "https://drive.google.com/drive/folders/11kqjlo6uaLZA9PMqUtr6FUTr6bIA-n1w",
+    "completedAt": 1794910089774
+  },
+  {
+    "id": "a7e02520-d089-4758-97a9-c3a08574d5f8",
+    "slug": "boku-no-hero-academia-6th-season",
+    "animeTitle": "Boku no Hero Academia 6th Season",
+    "episode": "15",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "Holy (TürkAnime İzle)",
+    "fileName": "Boku no Hero Academia 6th Season - Bolum 15 [Holy (TürkAnime İzle) 1080p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1vvQEbc8woT766B6AcEqdOFpaMAzESSVn",
+    "driveWebViewLink": "https://drive.google.com/file/d/1vvQEbc8woT766B6AcEqdOFpaMAzESSVn/view",
+    "driveFolderId": "1tBHyCKdNuSydNuwisNga_QQ8HhZdkg2V",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1tBHyCKdNuSydNuwisNga_QQ8HhZdkg2V",
+    "completedAt": 1794910089781
+  },
+  {
+    "id": "a1892556-6c78-4934-b02b-a52dd24387d0",
+    "slug": "bokura-ga-ita",
+    "animeTitle": "Bokura ga Ita",
+    "episode": "9",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "e89d91c4-e98d-461c-ad85-19c998a0e32e",
+    "slug": "bokusatsu-tenshi-dokuro-chan-2",
+    "animeTitle": "Bokusatsu Tenshi Dokuro-chan 2",
+    "episode": "1",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "7be98876-d28a-4325-aa47-70f667fb8847",
+    "slug": "boogiepop-wa-warawanai-2019",
+    "animeTitle": "Boogiepop wa Warawanai (2019)",
+    "episode": "9",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "MiracleSubs",
+    "fileName": "Boogiepop wa Warawanai (2019) - Bolum 09 [MiracleSubs 1080p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1cTZdcYCbL_7j-DqSxFBn27l_ZTHlVCWD",
+    "driveWebViewLink": "https://drive.google.com/file/d/1cTZdcYCbL_7j-DqSxFBn27l_ZTHlVCWD/view",
+    "driveFolderId": "1SjhxnNnYItxJJYsu7OkN9a1h8Vjn4L0J",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1SjhxnNnYItxJJYsu7OkN9a1h8Vjn4L0J",
+    "completedAt": 1794910089764
+  },
+  {
+    "id": "0764f483-deef-4372-9bf2-82dccf204019",
+    "slug": "brothers-conflict",
+    "animeTitle": "Brothers Conflict",
+    "episode": "2",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "720p",
+    "resolutionHeight": 720,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "TürkAnime İzle",
+    "fileName": "Brothers Conflict - Bolum 02 [TürkAnime İzle 720p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1d2jSYYC4dwx2M8A5vxHpgvxdUm0wP8dM",
+    "driveWebViewLink": "https://drive.google.com/file/d/1d2jSYYC4dwx2M8A5vxHpgvxdUm0wP8dM/view",
+    "driveFolderId": "1sNaIWMirsTi0NaPAbA_M0D893gamavSa",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1sNaIWMirsTi0NaPAbA_M0D893gamavSa",
+    "completedAt": 1794910090039
+  },
+  {
+    "id": "b12737fb-a957-42ed-9ee7-de37e9054e93",
+    "slug": "butlers-chitose-momotose-monogatari",
+    "animeTitle": "Butlers: Chitose Momotose Monogatari",
+    "episode": "8",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "795fbb0b-095f-4aed-80de-ebc2e8203caf",
+    "slug": "buzzer-beater-2nd-season",
+    "animeTitle": "Buzzer Beater 2nd Season",
+    "episode": "6",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "ef7b42fe-073e-4651-b836-833da23ef2fb",
+    "slug": "captain-earth",
+    "animeTitle": "Captain Earth",
+    "episode": "10",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "fdf1ab25-1903-49a9-8dfe-efbf9fda9847",
+    "slug": "cardfight-vanguard-zoku-koukousei-hen",
+    "animeTitle": "Cardfight!! Vanguard: Zoku Koukousei-hen",
+    "episode": "14",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "19efde76-c435-40e1-a746-bcc92e26b092",
+    "slug": "chain-chronicle-haecceitas-no-hikari",
+    "animeTitle": "Chain Chronicle: Haecceitas no Hikari",
+    "episode": "1",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "c51288c5-a470-491b-b457-b23e8cebafe2",
+    "slug": "chibi-devi",
+    "animeTitle": "ChibiDevi!",
+    "episode": "8",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "2f4073d2-3bc3-4606-9506-a6b0eaef9311",
+    "slug": "chio-chan-no-tsuugakuro",
+    "animeTitle": "Chio-chan no Tsuugakuro",
+    "episode": "1",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "0645c71d-7b44-4c3c-8a4e-764658c193ac",
+    "slug": "chou-yuu-sekai-being-the-reality",
+    "animeTitle": "Chou Yuu Sekai: Being the Reality",
+    "episode": "14",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "1c594afa-301f-4d32-8611-5516547c4751",
+    "slug": "code-breaker-ova",
+    "animeTitle": "Code:Breaker OVA",
+    "episode": "3",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "7de2e671-2f76-4b49-95d5-2939c444ea30",
+    "slug": "conception",
+    "animeTitle": "Conception",
+    "episode": "2",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "e3a29f4b-fb35-4adc-8461-d28c56731c06",
+    "slug": "danganronpa-3-the-end-of-kibougamine-gakuen-mirai-hen",
+    "animeTitle": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+    "episode": "4",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "3f0f8f78-e8b1-4501-9ea1-3e466a4b25c6",
+    "slug": "danshi-koukousei-no-nichijou-specials",
+    "animeTitle": "Danshi Koukousei no Nichijou Specials",
+    "episode": "4",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "ad0c9538-288a-45bd-8480-c2a40ce1e463",
+    "slug": "date-a-live-v",
+    "animeTitle": "Date A Live V",
+    "episode": "7",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "9d1af564-f3e9-4e0d-b6c5-087583ec070a",
+    "slug": "death-note",
+    "animeTitle": "Death Note",
+    "episode": "25",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "bfe37604-c190-47b3-8c86-4735e765b95c",
+    "slug": "devil-may-cry",
+    "animeTitle": "Devil May Cry",
+    "episode": "12",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "1f671ac3-3f2d-4587-a7ef-72c089563730",
+    "slug": "diabolik-lovers-more-blood",
+    "animeTitle": "Diabolik Lovers More,Blood",
+    "episode": "5",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "b45ddb4b-caf6-47b8-b4ea-8a8c32a78079",
+    "slug": "dimension-w",
+    "animeTitle": "Dimension W",
+    "episode": "2",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "951456a9-f9a3-4ea2-b417-760fbb5f2f7f",
+    "slug": "dog-days-2",
+    "animeTitle": "Dog Days' 2",
+    "episode": "8",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "2cf2f4f8-98dc-462b-aec8-f53b8e71301d",
+    "slug": "dogs-bullets-carnage",
+    "animeTitle": "Dogs: Bullets & Carnage",
+    "episode": "2",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "63c36924-c68d-4c85-a32b-b55d995100e5",
+    "slug": "dokyuu-hentai-hxeros",
+    "animeTitle": "Dokyuu Hentai HxEros",
+    "episode": "1",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "17a93681-a7d6-4d1b-ac6e-ca86d90c3d54",
+    "slug": "dororo-to-hyakkimaru",
+    "animeTitle": "Dororo to Hyakkimaru",
+    "episode": "4",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "00c83d99-1979-4f9f-8e12-c443fb900610",
+    "slug": "dota-dragon-s-blood-season-2",
+    "animeTitle": "Dota: Dragon's Blood Season 2",
+    "episode": "1",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "90666376-7360-462a-ad3c-f52fc83bacdc",
+    "slug": "double-circle",
+    "animeTitle": "Double Circle",
+    "episode": "1",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "f7390143-4393-4712-b533-82dd9fdfc020",
+    "slug": "dragon-half",
+    "animeTitle": "Dragon Half",
+    "episode": "2",
+    "status": "paused",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [],
+    "createdAt": 1794900851170,
+    "updatedAt": 1794902193565,
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "6e75ffc7-f711-4582-be62-e160506ea4f3",
+    "slug": "a-channel-a-channel",
+    "animeTitle": "A-Channel: +A-Channel",
+    "episode": "10",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Heterophobia",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/213000653425",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Heterophobia",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1290131737309",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Heterophobia",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=2760729",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Heterophobia",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3792353",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1095548",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Heterophobia",
+        "embedUrl": "https://videoapi.my.mail.ru/videos/embed/mail/srht.karacam/_myvideo/412.html",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "VK",
+        "fansub": "Heterophobia",
+        "embedUrl": "https://vk.com/video_ext.php?oid=301364574&id=456239177&hash=fd52f53da2326a1d&hd=1",
+        "outcome": "VK akışı bulunamadı"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Heterophobia",
+        "embedUrl": "https://www.mp4upload.com/embed-070wn7pigcwn.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      }
+    ],
+    "createdAt": 1794900851169,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "720p",
+    "resolutionHeight": 720,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "Heterophobia",
+    "fileName": "A-Channel +A-Channel - Bolum 10 [Heterophobia 720p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "18guM1IIZZmJb0z3nBkJypCmuz45OlEE0",
+    "driveWebViewLink": "https://drive.google.com/file/d/18guM1IIZZmJb0z3nBkJypCmuz45OlEE0/view",
+    "driveFolderId": "1_zoFjGCtwZ8SqZgS99n80_5Y7PSmB30D",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1_zoFjGCtwZ8SqZgS99n80_5Y7PSmB30D",
+    "completedAt": 1794910086785
+  },
+  {
+    "id": "0c6d5670-52d3-4e3a-827c-d80992f7bfed",
+    "slug": "a-ko-the-versus",
+    "animeTitle": "A-Ko The Versus",
+    "episode": "1",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/5469328509684",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=5109576",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "DAILYMOTION",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://www.dailymotion.com/embed/video/x8k7er2",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "FILEMOON",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://filemoon.sx/e/7gv0coiiur7h",
+        "outcome": "FILEMOON taraması için yt-dlp betiği önerilir"
+      },
+      {
+        "player": "DOODSTREAM",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://dood.watch/e/weqqjq6p8wdp",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "EMBEDGRAM",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://embedgram.com/v/643rq6574osr8",
+        "outcome": "EMBEDGRAM taraması için yt-dlp betiği önerilir"
+      },
+      {
+        "player": "MVIDOO",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://mvidoo.com/embed-dp7ib6w16ikc.html",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "STREAMLARE",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://streamlare.com/e/MqN9nG3qZw6ngxeA",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "STREAMSB",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://sbfast.com/embed-zez2yfynkc3p.html",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "VTUBE",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://vtube.to/embed-ugh9mx8sp4u3.html",
+        "outcome": "VTUBE taraması için yt-dlp betiği önerilir"
+      },
+      {
+        "player": "WOLFSTREAM",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://wolfstream.tv/embed-wb6yxv5m1khm.html",
+        "outcome": "WOLFSTREAM taraması için yt-dlp betiği önerilir"
+      },
+      {
+        "player": "YOUTUBE",
+        "fansub": "Eski Çeviri",
+        "embedUrl": "https://www.youtube.com/embed/Crj4Q6C46TI",
+        "outcome": "YOUTUBE taraması için yt-dlp betiği önerilir"
+      }
+    ],
+    "createdAt": 1794900851169,
+    "updatedAt": 1794900854436,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "886000c5-e4a6-4502-8fe0-1437ca8228e3",
+    "slug": "aa-megami-sama-sorezore-no-tsubasa",
+    "animeTitle": "Aa! Megami-sama!: Sorezore no Tsubasa",
+    "episode": "17",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2377332034160",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1277471296209",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://my.mail.ru/video/embed/9165530183271192803",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.mp4upload.com/embed-6cz92fmev14v.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://sendvid.com/embed/tfgairr4",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "DAILYMOTION",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.dailymotion.com/embed/video/x17rjyb",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "DAILYMOTION",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.dailymotion.com/embed/video/x1865pg",
+        "outcome": "HTTP 403"
+      }
+    ],
+    "createdAt": 1794900851169,
+    "updatedAt": 1794900860716,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "2256d6b1-56b3-4daa-880c-f722a2c9bebd",
+    "slug": "ai-yori-aoshi-enishi",
+    "animeTitle": "Ai Yori Aoshi: Enishi",
+    "episode": "1",
+    "status": "failed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 0,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "AMT",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/86568536807",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "AMT",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2297198021178",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "AMT",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=2613824",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "AMT",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1103084",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "AMT",
+        "embedUrl": "https://videoapi.my.mail.ru/videos/embed/bk/schneizel/_myvideo/495.html",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "AMT",
+        "embedUrl": "https://my.mail.ru/video/embed/7852876293715527872",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "SENDVID",
+        "fansub": "AMT",
+        "embedUrl": "https://sendvid.com/embed/nm8xgai1",
+        "outcome": "En yüksek 480p (1080p gerekli)"
+      },
+      {
+        "player": "VOE",
+        "fansub": "AMT",
+        "embedUrl": "https://voe.sx/e/88dzfffy1ju4",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "CLONE",
+        "fansub": "AMT",
+        "embedUrl": "https://short.icu/?v=IWUwIcaRb",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "AMT",
+        "embedUrl": "https://vudeo.io/embed-y9hu0eoohci4.html",
+        "outcome": "This operation was aborted"
+      }
+    ],
+    "createdAt": 1794900851169,
+    "updatedAt": 1794900869793,
+    "error": "Tüm oynatıcılar tarandı ancak doğrulanmış 1080p akış bulunamadı.",
+    "minQualityHeight": 1080
+  },
+  {
+    "id": "7092d168-87b8-4a67-b1b0-2c8021612d81",
+    "slug": "ame-to-kimi-to",
+    "animeTitle": "Ame to Kimi to",
+    "episode": "12",
+    "status": "completed",
+    "strict1080p": true,
+    "embedUrl": "https://my.mail.ru/video/embed/4898784563322424463",
+    "bytesDownloaded": 522729393,
+    "totalBytes": 522729393,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "OK.RU",
+        "fansub": "LGI",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/12814688061959",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "LGI",
+        "embedUrl": "https://my.mail.ru/video/embed/4898784563322424463",
+        "outcome": "Seçildi (1080p)"
+      }
+    ],
+    "createdAt": 1794900851169,
+    "updatedAt": 1794910090417,
+    "selectedPlayer": "MAIL",
+    "selectedFansub": "LGI",
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "streamUrl": "https://cdn29.my.mail.ru/hv/82002323.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.12%3A9091%2Fvideo%2F82002323-hv&p=f&video_key=d7e060dffd441f4cf801b5e138517ee075652db7&expire_at=1794913200&touch=1774535112&reg=200&sign=486e0e475ae18b0951d440adf27256ed27abafdb",
+    "fileName": "Ame to Kimi to - Bolum 12 [LGI 1080p].mp4",
+    "filePath": "/app/applet/downloads/ame-to-kimi-to/Ame to Kimi to - Bolum 12 [LGI 1080p].mp4",
+    "completedAt": 1794900988759,
+    "minQualityHeight": 1080,
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1z4eZMpWihONRCqUgXrdmckMt42gRccHO",
+    "driveWebViewLink": "https://drive.google.com/file/d/1z4eZMpWihONRCqUgXrdmckMt42gRccHO/view",
+    "driveFolderId": "1pxp-VLSUfzd8AI1MhskjfLCcBm_DiATt",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1pxp-VLSUfzd8AI1MhskjfLCcBm_DiATt"
+  },
+  {
+    "id": "6fbf8c58-c907-4390-8235-a43c6ad2b889",
+    "slug": "ame-iro-cocoa",
+    "animeTitle": "Ame-iro Cocoa",
+    "episode": "11",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/4724236552792",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/25664358924",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2219811211886",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "SAVEFILEWAY",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://savefileway.com/video/embed/Ozn/660x425/Pu22l32u82_4m3-1r0_C0c04_-_11_720P_By_Oto_Uploader.mp4",
+        "outcome": "HTTP 523"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4000529",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4536299",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "VK",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://vk.com/video_ext.php?oid=279538345&id=171820406&hash=f872ce931d1b22b4&hd=1",
+        "outcome": "VK akışı bulunamadı"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://www.mp4upload.com/embed-jrorijbswpyg.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.mp4upload.com/embed-0xjuocxixvjd.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.mp4upload.com/embed-7s8fqe0lwikc.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://uqload.com/embed-qrxvkb73t0f1.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "UQLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://uqload.com/embed-mddm6p860kuy.html",
+        "outcome": "Uqload kaynağı bulunamadı"
+      },
+      {
+        "player": "VOE",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://voe.sx/e/l1420qnhfr0c",
+        "outcome": "HTTP 403"
+      },
+      {
+        "player": "EMBEDO",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://embedo.co/e/7jyfauvlsh3t",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "MVIDOO",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://mvidoo.com/embed-y5i40qsg5r1i.html",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "TUBELOAD",
+        "fansub": "PuzzleSubs",
+        "embedUrl": "https://tubeload.co/e/kwuxgdv7niiz",
+        "outcome": "fetch failed"
+      },
+      {
+        "player": "VUDEA",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://vudeo.io/embed-9kht558elm3g.html",
+        "outcome": "HTTP 523"
+      }
+    ],
+    "createdAt": 1794900851169,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "720p",
+    "resolutionHeight": 720,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "PuzzleSubs",
+    "fileName": "Ame-iro Cocoa - Bolum 11 [PuzzleSubs 720p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "10g95GJtsI05gYKuLjTQtd0ERhcW3s3DD",
+    "driveWebViewLink": "https://drive.google.com/file/d/10g95GJtsI05gYKuLjTQtd0ERhcW3s3DD/view",
+    "driveFolderId": "1syUzuJ87o3jwS85dU0_EKzqzgI6V2K2S",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1syUzuJ87o3jwS85dU0_EKzqzgI6V2K2S",
+    "completedAt": 1794910087454
+  },
+  {
+    "id": "90863567-67a8-438f-a7ec-2a2411dba5d6",
+    "slug": "animegataris",
+    "animeTitle": "Animegataris",
+    "episode": "5",
+    "status": "completed",
+    "strict1080p": true,
+    "embedUrl": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/4043",
+    "bytesDownloaded": 556891034,
+    "totalBytes": 556891034,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "TAÇE",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1633959807733",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Unmei Çeviri",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/987530463965",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Unmei Çeviri",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/4280472111704",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "SAVEFILEWAY",
+        "fansub": "Unmei Çeviri",
+        "embedUrl": "https://savefileway.com/video/embed/GyG/660x425/Unm31_F4n2u8_4N1M3G4T4R12-05_1080p_By_Oto_Uploader.mp4",
+        "outcome": "HTTP 523"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "TAÇE",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3824212",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Unmei Çeviri",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3557026",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Unmei Çeviri",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4884421",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "TAÇE",
+        "embedUrl": "https://my.mail.ru/vk/262414138/video/embed/_myvideo/159",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Unmei Çeviri",
+        "embedUrl": "https://my.mail.ru/mail/torukojina/video/embed/_myvideo/4043",
+        "outcome": "Seçildi (1080p)"
+      }
+    ],
+    "createdAt": 1794900851169,
+    "updatedAt": 1794910090417,
+    "selectedPlayer": "MAIL",
+    "selectedFansub": "Unmei Çeviri",
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "streamUrl": "https://cdn30.my.mail.ru/hv/67176574.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.3%3A9090%2Fvideo4%2F67176574-hv&p=f&video_key=d7e060dffd441f4cf801b5e138517ee075652db7&expire_at=1794913200&touch=1551119870&reg=200&sign=46411c542187a6a9ffc43efda69c49d6dd7bcedb",
+    "fileName": "Animegataris - Bolum 05 [Unmei Çeviri 1080p].mp4",
+    "filePath": "/app/applet/downloads/animegataris/Animegataris - Bolum 05 [Unmei Çeviri 1080p].mp4",
+    "completedAt": 1794901054398,
+    "minQualityHeight": 1080,
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1E0rzvxpCXZaolQHG2SmdSYS2p6PNyn_Y",
+    "driveWebViewLink": "https://drive.google.com/file/d/1E0rzvxpCXZaolQHG2SmdSYS2p6PNyn_Y/view",
+    "driveFolderId": "15Akxc-xZvAQ3i14ki7QEkMhw0nJgmU3c",
+    "driveFolderLink": "https://drive.google.com/drive/folders/15Akxc-xZvAQ3i14ki7QEkMhw0nJgmU3c"
+  },
+  {
+    "id": "a2d30bd8-03a1-4f5d-a190-92239c62905d",
+    "slug": "ao-no-miburo-serizawa-ansatsu-hen",
+    "animeTitle": "Ao no Miburo: Serizawa Ansatsu-hen",
+    "episode": "14",
+    "status": "completed",
+    "strict1080p": true,
+    "embedUrl": "https://my.mail.ru/video/embed/4898784563322424695",
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "MAIL",
+        "fansub": "LGI",
+        "embedUrl": "https://my.mail.ru/video/embed/4898784563322424695",
+        "outcome": "Seçildi (1080p)"
+      }
+    ],
+    "createdAt": 1794900851169,
+    "updatedAt": 1794910090417,
+    "selectedPlayer": "MAIL",
+    "selectedFansub": "LGI",
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "streamUrl": "https://cdn42.my.mail.ru/hv/82012166.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.12%3A9090%2Fvideo%2F82012166-hv&p=f&video_key=d7e060dffd441f4cf801b5e138517ee075652db7&expire_at=1794913200&touch=1774702819&reg=200&sign=f226346f4f56a1d5055730596d2d0b5668ab31e9",
+    "fileName": "Ao no Miburo Serizawa Ansatsu-hen - Bolum 14 [LGI 1080p].mp4",
+    "filePath": "/app/applet/downloads/ao-no-miburo-serizawa-ansatsu-hen/Ao no Miburo Serizawa Ansatsu-hen - Bolum 14 [LGI 1080p].mp4",
+    "minQualityHeight": 1080,
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1nl4yNJem5o5C1PPZY1xvgiFFJwbcMNEM",
+    "driveWebViewLink": "https://drive.google.com/file/d/1nl4yNJem5o5C1PPZY1xvgiFFJwbcMNEM/view",
+    "driveFolderId": "1Jmz2c4_P8ySr6OLTPvCAIRC8kPbIrNcl",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1Jmz2c4_P8ySr6OLTPvCAIRC8kPbIrNcl",
+    "completedAt": 1794910087447
+  },
+  {
+    "id": "6a33763b-1379-48a8-bd43-0393b2073161",
+    "slug": "appleseed-xiii",
+    "animeTitle": "Appleseed XIII",
+    "episode": "3",
+    "status": "completed",
+    "strict1080p": true,
+    "bytesDownloaded": 0,
+    "totalBytes": 0,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "AniKage",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1284501277405",
+        "outcome": "Oynatıcı akışı bulunamadı"
+      },
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/1599449074178",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "AniKage",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=3784723",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=1298044",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "SIBNET",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://video.sibnet.ru/shell.php?videoid=4065295",
+        "outcome": "HTTP 403 (Sunucu IP engelli olabilir)"
+      },
+      {
+        "player": "MAIL",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://my.mail.ru/video/embed/3095424634359654333",
+        "outcome": "En yüksek 720p (1080p gerekli)"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "AniKage",
+        "embedUrl": "https://www.mp4upload.com/embed-jsdjo1zqd4zg.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      },
+      {
+        "player": "MP4UPLOAD",
+        "fansub": "Varsayılan",
+        "embedUrl": "https://www.mp4upload.com/embed-xe3ijkn4zro5.html",
+        "outcome": "MP4 kaynağı çözümlenemedi"
+      }
+    ],
+    "createdAt": 1794900851169,
+    "updatedAt": 1794910090417,
+    "minQualityHeight": 1080,
+    "selectedQuality": "720p",
+    "resolutionHeight": 720,
+    "selectedPlayer": "GDRIVE",
+    "selectedFansub": "Varsayılan",
+    "fileName": "Appleseed XIII - Bolum 03 [Varsayılan 720p].mp4",
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "14zYvivTIpxyhnUiTfSdS05i22p1dzPLs",
+    "driveWebViewLink": "https://drive.google.com/file/d/14zYvivTIpxyhnUiTfSdS05i22p1dzPLs/view",
+    "driveFolderId": "1ZRj0kPy2_xBhBx2coo6iHAv54K-TRNKz",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1ZRj0kPy2_xBhBx2coo6iHAv54K-TRNKz",
+    "completedAt": 1794910087741
+  },
+  {
+    "id": "ab47da0b-d7f1-4118-bd4a-78b8c1e682b5",
+    "slug": "2-43-seiin-koukou-danshi-volley-bu",
+    "animeTitle": "2.43: Seiin Koukou Danshi Volley-bu",
+    "episode": "2",
+    "status": "completed",
+    "strict1080p": true,
+    "embedUrl": "https://odnoklassniki.ru/videoembed/2041612536449",
+    "bytesDownloaded": 908929204,
+    "totalBytes": 908929204,
+    "speedBps": 0,
+    "percent": 100,
+    "attempts": [
+      {
+        "player": "ODNOKLASSNIKI",
+        "fansub": "NepentheSubs",
+        "embedUrl": "https://odnoklassniki.ru/videoembed/2041612536449",
+        "outcome": "Seçildi (1080p)"
+      }
+    ],
+    "createdAt": 1794899750586,
+    "updatedAt": 1794910090417,
+    "selectedPlayer": "ODNOKLASSNIKI",
+    "selectedFansub": "NepentheSubs",
+    "selectedQuality": "1080p",
+    "resolutionHeight": 1080,
+    "streamUrl": "https://vd249.okcdn.ru/?expires=1794986150812&srcIp=34.34.246.14&pr=10&srcAg=CHROME&ms=178.237.23.106&type=5&sig=SPLYzt6UwqY&ct=0&urls=178.237.23.36&clientType=0&id=981904788097",
+    "fileName": "2.43 Seiin Koukou Danshi Volley-bu - Bolum 02 [NepentheSubs 1080p].mp4",
+    "filePath": "/app/applet/downloads/2-43-seiin-koukou-danshi-volley-bu/2.43 Seiin Koukou Danshi Volley-bu - Bolum 02 [NepentheSubs 1080p].mp4",
+    "minQualityHeight": 1080,
+    "driveStatus": "uploaded",
+    "driveProgress": 100,
+    "driveFileId": "1CmkpA0-w52rjcugefDyLAoktXjj_qazQ",
+    "driveWebViewLink": "https://drive.google.com/file/d/1CmkpA0-w52rjcugefDyLAoktXjj_qazQ/view",
+    "driveFolderId": "1WHw7M8gjuEZxhABpcAzYEKLnJfS1tjzt",
+    "driveFolderLink": "https://drive.google.com/drive/folders/1WHw7M8gjuEZxhABpcAzYEKLnJfS1tjzt",
+    "completedAt": 1794910086793
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "AnimeArşiv 1080p Eksik Bölüm İndirici",
+  "description": "Eksik anime bölümlerini TürkAnime Arşivi üzerinden tarayan, Odnoklassniki, Sibnet, Mail.ru ve diğer oynatıcılardan 1080p kaynakları bulup indiren masaüstü ve sunucu aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
